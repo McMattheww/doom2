@@ -1,0 +1,7 @@
+addkeysection "MV test" MVTest
+
+addmenukey "open/close inventory" "netevent inventoryOpen"
+addmenukey "cycle weapon ammo" "netevent ammoCycle"
+addmenukey "inventory up" "netevent inventoryUp"
+addmenukey "inventory down" "netevent inventoryDown"
+addmenukey "cycleInv" "+User1"

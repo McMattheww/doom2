@@ -1,0 +1,7 @@
+//UACPistol
+weapons/gock GOCK
+CLIPOUT CLIPOUT
+CLIPIN CLIPIN
+weapons/glockdry DRY
+DRY DRY
+GOCK GOCK

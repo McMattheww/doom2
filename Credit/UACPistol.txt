@@ -1,0 +1,12 @@
+Name: UAC Pistol
+Class: 2
+Type: Hitscan
+Palette: Doom
+Summon: uacpistol
+Ammotype: Clip
+
+Submitted: TyrannotitanFan
+Decorate: TyrannotitanFan
+Sprites: Amuscaria/Eriance
+Sounds: TyrannotitanFan, DICE
+Idea Base: Basic reloadable pistol

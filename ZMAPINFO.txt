@@ -1,0 +1,19 @@
+DoomEdNums {
+	15001 = UACPistol
+	
+}
+
+gameinfo {
+	AddEventHandlers = "InventoryHandler"
+	playerclasses = "InventoryPlayerPawn"
+}
+
+
+map MAP01 "test1"
+{
+	Grinding_Polyobj
+	music = d_runnin
+	sky1 = sky1
+}
+
+
